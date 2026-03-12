@@ -1,15 +1,15 @@
 h1 {
-    color: darkblue
+    color: #2C3539;
 }
 #primeira-subtítulo {
-color: #1F4E79;
+color: gray;
 }
 #segundo-subtítulo{
-    color: cadetblue;
+    color: #932432;
 }
 #terceiro-subtítulo {
-    color:dimgray;
+    color: #C5A059 ;
 }
 #quarto-subtítulo{
-    color: darkgrey;
+    color: #8D908E;
 }
