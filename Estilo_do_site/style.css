@@ -1,15 +1,35 @@
-h1 {
-    color: #2C3539;
+#Título_principal {
+    color: #2F2F2F;
 }
+
 #primeira-subtítulo {
-    color: gray;
+    color: #6E6E6E;
 }
-#segundo-subtítulo{
-    color: #932432;
+
+#segundo-subtítulo {
+    color: #8B0000;
 }
+
 #terceiro-subtítulo {
-    color: #C5A059 ;
+    color: #B8860B;
 }
-#quarto-subtítulo{
-    color: #8D908E;
+
+#principais-fases {
+    color: #5A1E1E;
+}
+
+#quarto-subtítulo {
+    color: #4F4F4F;
+}
+
+#consequências {
+    color: #3B3B3B;
+}
+
+#quinto-subtítulo {
+    color: #A67C00;
+}
+
+#sexto-subtítulo {
+    color: #A67C00;
 }
