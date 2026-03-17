@@ -1,4 +1,4 @@
-# Site explicando a Revolução Industrial
+# Site sobre a Revolução Industrial
 
 Este projeto é um site simples desenvolvido para explicar o que foi a Revolução Industrial, abordando seu contexto histórico, principais acontecimentos e impactos na sociedade.
 
